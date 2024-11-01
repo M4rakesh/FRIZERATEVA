@@ -1,0 +1,4 @@
+Grāmatas nosaukums: jasd Autors: asdf Izdošanas gads 1234,1234
+Grāmatas nosaukums: asdfsd Autors: asdf Izdošanas gads 123,4123
+Klienta vards: qweior Klienta uzvards: asdfsdfj Klienta personas kods: 123784-1234 Klienta telefona numurs:1234122
+Klienta vards: asdfjwkle Klienta uzvards: sdfuiihcxz Klienta personas kods: 123-01234 Klienta telefona numurs:234198754
